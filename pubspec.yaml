@@ -1,5 +1,5 @@
 name: bmi_calculator
-description: "A new Flutter project."
+description: "A simple BMI Calculator app built with Flutter."
 publish_to: 'none'
 version: 0.1.0
 
